@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HallSkin" width="600" height="1000" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  >
+	<w:Config id="164fe9c9fb8" ></w:Config>
+	<e:Image width="100" height="100" x="29" y="35" source="mj_hall_touxiangkuang_png"/>
+	<e:Image width="130" height="45" x="155" y="40" source="mj_hall_Dbeijing_png" alpha=".8"/>
+	<e:Image width="130" height="45" x="155" y="90" source="mj_hall_Dbeijing_png" alpha=".8"/>
+	<e:Image width="150" height="25" x="300" y="50" source="mj_hall_diamondbeijing_png"/>
+	<e:Image width="150" height="32" x="300" y="100" source="mj_hall_goldbeijing_png"/>
+	<e:Image width="60" height="60" x="499" y="40" source="设置1_png"/>
+	<e:Label text="设置" x="509.82" y="105.16" size="20" fontFamily="Microsoft YaHei" textColor="0xe98f36"/>
+	<e:Label text="世外高人" x="163.67" y="50"/>
+	<e:Label text="ID:" x="172" y="97.5"/>
+	<e:Image width="150" height="150" x="54" y="196.84" source="mj_hall_qinyousai_png"/>
+	<e:Image width="135" height="135" x="414.82" y="213.68" source="mj_hall_bisai_png"/>
+	<e:Image width="70" height="50" x="54" y="917" source="mj_hall_renwu_png" scaleX="1.2" scaleY="1.2"/>
+	<e:Image width="70" height="50" x="202.67" y="915" source="mj_hall_haoyou_png" scaleX="1.2" scaleY="1.2"/>
+	<e:Image width="50" height="50" x="347.34" y="912.33" source="mj_hall_daoju_png" scaleX="1.2" scaleY="1.2"/>
+	<e:Image width="50" height="50" x="480.65" y="915" source="mj_hall_mall_png" scaleX="1.2" scaleY="1.2"/>
+	<e:Label text="好友" x="231.16" y="953.98" size="15" fontFamily="Microsoft YaHei" textColor="0xead7a6" border="true"/>
+	<e:Label text="商城" x="364.81" y="955.32" size="15" fontFamily="Microsoft YaHei" textColor="0xead7a6" border="true"/>
+	<e:Label text="背包" x="494.94" y="956.64" size="15" fontFamily="Microsoft YaHei" textColor="0xead7a6" border="true"/>
+	<e:Image id="_rectPlay" width="200" height="130" x="363" y="342.97"  source="mj_hall_primary_png"/>
+	<e:Image id="_midPlay" width="200" height="130" x="355" y="492.99"  source="mj_hall_intermediate_png"/>
+	<e:Image id="_highPlay" width="200" height="135" x="354" y="635.99"  source="mj_hall_gaojichangover_png"/>
+	<e:Image width="231" height="131" x="96" y="643.99" anchorOffsetX="0" anchorOffsetY="0" source="mj_hall_enterroom_png" scale9Grid="37,41,227,252" scaleX="0.8" scaleY="0.8"/>
+	<e:Image width="390" height="130" x="125.3" y="815.6" anchorOffsetX="0" anchorOffsetY="34.6" source="mj_hall_qucikstart_png" scaleX="0.8" scaleY="0.8"/>
+	<e:Image width="301" height="334" x="79.4" y="343.97" anchorOffsetX="0" anchorOffsetY="0" scaleX="0.8" scaleY="0.8" source="mj_hall_gettingroom_png"/>
+</e:Skin>
